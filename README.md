@@ -8,3 +8,5 @@ Trying to make my way across this **strange** place.
 ## But most importantly, I'll try my best, to be proud of what I'm doing
 
 Hey, this is a new edit where I'm trying to work with VS Codium! I hope this will work properly.
+
+Hey again, this is an attempt to make a new branch with Git Bash!

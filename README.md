@@ -2,7 +2,7 @@
 
 **Nice to meet you, and welcome to my information page.**
 
-My name is Bastien Clémot, a 22-year-old French arthropod enthusiast and **PhD Student**. I am currently conducting research in behavioural neuroscience at Lund University as part of my doctoral thesis.
+My name is Bastien Clémot, a 23-year-old French arthropod enthusiast and **PhD Student**. I am currently conducting research in behavioural neuroscience at Lund University as part of my doctoral thesis.
 
 Driven by a passion for arthropodology, my research focuses on the neural and behavioural mechanisms that allow dung beetles to orient in straight lines using environmental cues, a crucial strategy to minimize competition around resources. My project focuses on how these insects integrate and prioritize various sensory cues (_e.g._, sun position, polarized light, wind direction) within the central complex and how this integration influences their orientation. Through both lab and field experiments, I analyze how these signals are processed despite sensory noise, aiming to model their visual field and create biomimetic models.
 

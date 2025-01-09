@@ -1,19 +1,15 @@
 # **Greetings universe!**
 
-### Nice to meet you, and welcome to my **information page**.
+**Nice to meet you, and welcome to my information page.**
 
-My name is Bastien Clémot, a 22-years-old french student and Arthropod-enthusiast. I'm currently doing my 2nd master year in **modelling** & **ecology**.
+My name is Bastien Clémot, a 22-year-old French arthropod enthusiast and **PhD Student**. I am currently conducting research in behavioural neuroscience at Lund University as part of my doctoral thesis.
 
-I started my scientific cursus with a **Bacchelor's degre** in **Biology & Ecology**, which gave me strong baggages in main ecological theories, naturalism and fieldwork. This education program also gave me insights into various scientific fields, such as geology, biochemistry, microbiology, and others.
+Driven by a passion for arthropodology, my research focuses on the neural and behavioural mechanisms that allow dung beetles to orient in straight lines using environmental cues, a crucial strategy to minimize competition around resources. My project focuses on how these insects integrate and prioritize various sensory cues (_e.g._, sun position, polarized light, wind direction) within the central complex and how this integration influences their orientation. Through both lab and field experiments, I analyze how these signals are processed despite sensory noise, aiming to model their visual field and create biomimetic models.
 
-During this degree, I completed three internships in research laboratories, two in plant biology and pathology, and one focusing on plant-mosquito interactions. But you'll find more about them on my LinkedIn webpage (see my GitHub profile).
+Previously, I pursued a **Bachelor’s degree in Biology & Ecology**, which gave me a strong foundation in ecological theories, naturalism, and fieldwork. This program also provided insights into various scientific fields, such as geology, biochemistry, and microbiology. During this degree, I completed three internships in research laboratories, focusing on plant biology, plant pathology, and plant-mosquito interactions.
 
-I then pursued a **Master's degree** in **Functional, Behavioural & Evolutionary Ecology**, which expanded my knowledge and research skills.
+I made my **first Master’s year in Functional, Behavioural & Evolutionary Ecology**, which expanded my knowledge and research skills. During this time, I conducted a three-month internship in New Zealand, where I studied the courtship behaviour of an endemic species of fishing spiders. Following that, I completed a **second Master’s year in Ecology Modelling**, further developing my expertise in statistical analysis, modelling, and programming tools.
 
-During this year, I conducted a three-month internship in New Zealand, where I studied the courtship behaviour of an endemic species of fishing spider. But once again, details can be found on my LinkedIn webpage. 
+In addition to my academic pursuits, I have developed strong skills in behavioural ecology, ecological modelling, and scientific communication. I am proficient in statistical analysis, R and Python programming, QGis, and version control with Git. My role as president of the Nantes Student Naturalists' Circle also strengthened my naturalist knowledge and my commitment to science communication.
 
-Currently, I'm completing my second Master's year in **Ecology Modelling**, with the aim to enhance my skills in statistical analysis, modelling, and various programming tools and languages. Therefore, I'm using this GitHub page to showcase my work and ongoing learning.
-
-Thanks for visiting this repo, and have a great time in this universe.
-
-#### *PS: Oh. did I mention I absolutely love arthropods and that studying them is my main passion and goal in my professional career? I think I should.*
+**Thank you for visiting this repo, and have a great time in this universe.**
